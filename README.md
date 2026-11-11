@@ -26,4 +26,4 @@ I'm interested in threat detection, phishing defence and using data to catch mal
 
 ---
 
-📫 Open to cybersecurity internships and graduate roles · Connect with me on LinkedIn
+📫 Open to cybersecurity internships and graduate roles · [Connect with me on LinkedIn](https://www.linkedin.com/in/kshitiz-rayamajhi-8a6630353)

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kshitiz (Xitiz) 👋
 
-<!--
-**xitiz-r/xitiz-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity student at Victoria University, Sydney** · Bachelor of Cybersecurity
 
-Here are some ideas to get you started:
+I'm interested in threat detection, phishing defence and using data to catch malicious activity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔐 Currently
+- 🧑‍💻 **Team lead** on my capstone project: an *Advanced Phishing Detection System*
+- 📊 Applying machine learning to security data (website and spam classification)
+- 🌱 Learning Python for security tooling
+
+### 🛠️ Skills
+| Area | Tools |
+|---|---|
+| Security | Phishing analysis · Social engineering · Cyber law & ethics |
+| Data & ML | R · RStudio · Random Forest · SVM · Naive Bayes · ggplot2 |
+| Web | HTML · CSS · Responsive design |
+| Workflow | Git · GitHub · macOS · Windows |
+
+### 📂 Projects
+- **[Central Surgical Concern](https://github.com/xitiz-r/centralsurgical)**: multi-page business website for a medical equipment importer in Nepal (HTML/CSS) · [Live site](https://xitiz-r.github.io/centralsurgical/)
+- 🚧 **Malicious URL Detector**: Python machine learning project, coming soon
+- 🚧 **Phishing Detection System**: capstone team project, coming soon
+
+---
+
+📫 Open to cybersecurity internships and graduate roles · Connect with me on LinkedIn
